@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --forest-primary: #2d5a27;
+  --forest-light: #367d2e;
+  --forest-dark: #1a3617;
+}
